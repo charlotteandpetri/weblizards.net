@@ -1,0 +1,94 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Web Lizards</title>
+
+<link href="styles.css" rel="stylesheet" type="text/css">
+
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+
+<script type="text/javascript">
+
+  function showPane(id) {
+    var e,i;
+    var PID = "article"; // the id of the parent element
+    var p = document.getElementById(PID); // parent element
+    // loop through each of the childNodes of the parent element
+    for (i=0; i<p.childNodes.length; i++) {
+      e = p.childNodes[i];
+      if (e.nodeType!=1) continue; // pass over non-element nodes
+      if (e.getAttribute("id") == id) {
+        e.style.display = "block";
+      } else {
+        e.style.display = "none";
+      }
+    }
+  }
+
+</script>
+
+</head>
+
+<body>
+
+<div class="container grad">
+  <header>
+    <img id="header" src="images/wl-logo.png" width="470" height="95" alt="Web Lizards Logo"> 
+  </header>
+
+  <nav id="mainNav">
+    <a id="aboutLink" onclick="showPane('mainArticle')" href="#">About Us</a> - <a id="ventureLink"  onclick="showPane('ventures')" href="#">Active Ventures</a> - <a id="investLink"  onclick="showPane('invest')" href="#">Investment Opportunities</a>
+  </nav>
+
+  <section>
+    <article id="article">
+
+      <div id="mainArticle">
+        <h1>About Us</h1>
+        <p> Web Lizards, LLC was founded by a couple of tech &amp; market savvy college students before the turn of the last century. Our founding principle was to help people and enterprises to connect, promote, and operate on the web. </p>
+        <p> We started a joint venture with a leading European mobile value-added service provider, Wap Oneline, Ltd., and our management team founded Wap Oneline USA, LLC. We expanded throughout North and South America, where we were pioneers in the fields of mobile messaging and marketing services. </p>
+        <p> Recently, with a growing need for mobile apps, we started on yet another venture utilizing our great industry connections and broad understanding of mobile ecosystems, along with our coding and design expertise, to help people and enterprises to connect, promote, and operate using mobile apps. Deja Vu from the dot-com era.</p>
+      </div>
+
+      <div id="ventures">
+        <h1>Active Ventures</h1>
+        <a id="wollink" href="http://waponelineusa.com" target="_blank" title="WapOneline, LLC"><img src="images/wol.png" alt="WapOneline" width="258" height="76" ></a>
+        <a id="lizlink" href="http://applizards.com" target="_blank" title="AppLizards"><img src="images/applizards.png" alt="AppLizards" width="291" height="74"></a>
+      </div>
+
+      <div id="invest">
+        <h1>Investment Opportunities</h1>
+        <p> We are open minded folk, and we are always interested in hearing about and getting involved in new opportunities. We saw and seized an opportunity for a joint venture in mobile messaging and marketing services over a decade ago, which has given us great pride.</p>
+        <p> We have recently launched into  mobile apps world with our new, wholly owned, DBA venture called App Lizards. </p>
+        <p> What should be the next hot project that you should venture on with us? Drop us a line, whether you are interested in proposing a joint venture, investment in us, or even if you would like us to look into investing in you. </p>
+        <p>Yours truly,</p>
+        <p>The Lizards</p>
+        <p>info (at) weblizards.net</p>
+      </div>
+
+    </article>
+  </section>
+
+  <footer>
+      <p id="copyright">Copyright &copy; Web Lizards LLC 2012</p>
+  </footer>
+
+</div>
+
+<script type="text/javascript">
+  showPane("mainArticle"); // show the home page first
+</script>
+
+</body>
+</html>

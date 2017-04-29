@@ -1,0 +1,69 @@
+<html>
+
+<head>
+
+<title>index03</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+</head>
+
+<body bgcolor=#FFFFFF>
+
+<table width=600 border=0 cellpadding=0 cellspacing=0 align="center">
+
+  <tr> 
+
+    <td colspan=2> <img src="images/index__01.gif" width=600 height=345></td>
+
+  </tr>
+
+  <tr> 
+
+    <td> <img src="images/index__02.gif" width=133 height=223></td>
+
+    <td> <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="467" height="223">
+
+        <param name=movie value="index.swf">
+
+        <param name=quality value=high>
+
+        <embed src="index.swf" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="467" height="223">
+
+        </embed> 
+
+      </object></td>
+
+  </tr>
+
+  <tr> 
+
+    <td colspan=2> <img src="images/index__04.gif" width=600 height=251></td>
+
+  </tr>
+
+  <tr> 
+
+    <td colspan=2>SS </td>
+
+  </tr>
+
+  <tr> 
+
+    <td colspan=2>
+	<!--#include file="gifani_pre.shtml"
+	</td>
+
+  </tr>
+
+  <tr>
+
+    <td colspan=2>SS </td>
+
+  </tr>
+
+</table>
+
+</body>
+
+</html>

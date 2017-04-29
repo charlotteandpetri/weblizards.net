@@ -1,0 +1,65 @@
+.question {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: capitalize;
+	color: #000000;
+}
+.text {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+.title {
+	font-family: "Courier New", Courier, mono;
+	font-size: 14px;
+	font-weight: bold;
+	color: #CC6600;
+	text-transform: capitalize;
+}
+.answerbox100 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	background-color: #F0F0F0;
+	width: 100px;
+	border: thin solid #999999;
+}
+.answerbox150 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	background-color: #F0F0F0;
+	width: 150px;
+	border: thin solid #999999;
+}
+.answerbox200 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	background-color: #F0F0F0;
+	width: 200px;
+	border: thin solid #999999;
+}
+.textfield400 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	background-color: #F0F0F0;
+	width: 400px;
+	border: thin solid #999999;
+	height: 100px;
+}
+.submitbutton {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #000000;
+	background-color: #CCCCCC;
+	border: thin solid #666666;
+	width: 80px;
+}
+.errortext {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: capitalize;
+	color: #FFFFFF;
+}

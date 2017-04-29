@@ -1,0 +1,25 @@
+# Examples
+# 
+# 
+# The following example "/robots.txt" file specifies that no robots should visit any URL starting with
+# "/cyberworld/map/" or "/tmp/", or /foo.html: 
+# 
+# robots.txt for http://www.site.com/
+# 
+# User-agent: *
+# Disallow: /cyberworld/map/ # This is an infinite virtual URL space
+# Disallow: /tmp/ # these will soon disappear
+# Disallow: /foo.html
+# 
+# For Lizards:
+# 
+# robots.txt for http://weblizards.net/
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /logs/
+Disallow: /sstats/
+Disallow: /urchin/
+Disallow: /ntformmail.pl
+Disallow: /mailform.html
+Disallow: /stats/

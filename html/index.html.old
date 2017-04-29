@@ -1,0 +1,85 @@
+<html>
+
+<head>
+
+<title>WebLizards.Net</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<meta name="keywords" content="web development, flash, web design, Flash, website design, flash design, Web Design, FLASH, media design, internet application development, marketing, consulting">
+
+<meta name="description" content="Web Lizards LLC is an international group of IT wizards servicing variaty of industries with high-end Media Design, Internet Application Development, Marketing and Consulting.">
+
+<SCRIPT LANGUAGE="Javascript">
+<!-- Powered by Web Lizards.net>
+
+<!--
+
+function popup() {
+
+window.open("ra.html","newwindow","toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizeable=0,width=350,height=350")
+
+}
+
+
+
+function MM_checkPlugin(plgIn, theURL, altURL, autoGo) { //v3.0
+
+  var ok=false; document.MM_returnValue = false;
+
+  with (navigator) if (appName.indexOf('Microsoft')==-1) ok=(plugins && plugins[plgIn]);
+
+  else if (appVersion.indexOf('3.1')==-1) { //not Netscape or Win3.1
+
+    if (plgIn.indexOf("Flash")!=-1 && window.MM_flash!=null) ok=window.MM_flash;
+
+    else if (plgIn.indexOf("Director")!=-1 && window.MM_dir!=null) ok=window.MM_dir;
+
+    else ok=autoGo; }
+
+  if (!ok) theURL=altURL; if (theURL) window.location=theURL;
+
+}
+
+//-->
+
+</SCRIPT>
+
+</head>
+
+
+
+<body bgcolor="#FF9900" topmargin=0 onLoad="MM_checkPlugin('Shockwave Flash','','noflash.html',false);return document.MM_returnValue">
+
+<div align="center"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="100%" height="100%">
+
+    <param name=movie value="start.swf">
+
+    <param name=quality value=high>
+
+    <embed src="start.swf" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" salign="LT" width="100%" height="100%">
+
+    </embed> 
+
+  </object></div>
+
+</body>
+
+<script name="Used by MM_checkPlugin" language="javascript">
+
+<!--
+
+with (navigator) if (appName.indexOf('Microsoft')!=-1 && appVersion.indexOf('Mac')==-1) document.write(''+
+
+'<scr'+'ipt language="VBScript">\nOn error resume next\n'+
+
+'MM_dir = (IsObject(CreateObject("SWCtl.SWCtl.1")) Or IsObject(CreateObject("Macromedia.ActiveShockwave.1")))\n'+
+
+'MM_flash = NOT IsNull(CreateObject("ShockwaveFlash.ShockwaveFlash"))\n</scr'+'ipt>');
+
+//-->
+
+</script>
+
+</html>
+

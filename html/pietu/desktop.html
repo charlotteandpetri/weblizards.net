@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>//////////   The Desktop   \\\\\\\\\\</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript1.2">
+   function shake_xy(n) {
+      if (self.moveBy) {
+         for (i = 10; i > 0; i--) {
+            for (j = n; j > 0; j--) {
+            self.moveBy(0,i);
+            self.moveBy(i,0);
+            self.moveBy(0,-i);
+            self.moveBy(-i,0);
+            }
+         }
+      }
+   }
+</script> 
+</head>
+
+<body bgcolor="#3A6EA5" text="#000000">
+<script language="JavaScript">
+javascript:shake_xy(6) 
+</script>
+
+<div id="Layer1" style="position:absolute; left:390px; top:250px; width:247px; height:56px; z-index:2; background-color: #999999; layer-background-color: #999999; border: 1px none #000000"> 
+  <div align="center"><b><font color="#FFFFFF"><br>
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="2">There will be 
+    stuff here !</font></font></b></div>
+</div>
+<div id="LayerShad" style="position:absolute; left:395px; top:255px; width:247px; height:56px; z-index:1; background-color: #000000; layer-background-color: #000000; border: 1px none #000000"> 
+  <div align="center"><b><font color="#FFFFFF"><br>
+    </font></b></div>
+</div>
+</body>
+</html>

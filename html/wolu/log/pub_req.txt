@@ -1,0 +1,93 @@
+TIME : 2004-07-27 16:23:29 | MSISDN: 5043431153 | OPERATOR: movil.com.co | ITEM_ID: 42284
+TIME : 2004-07-27 16:23:29 | REQUEST: &artist=pietu&name=auyda&operator=movil.com.co&item_id=42284&msisdn=5043431153&type_id=3000
+TIME : 2004-07-27 16:23:29 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-07-27 16:30:37 | MSISDN: 50345678 | OPERATOR: DigiCell | ITEM_ID: 30908
+TIME : 2004-07-27 16:30:37 | REQUEST: &artist=pietu&name=auyda&operator=DigiCell&item_id=30908&msisdn=50345678&type_id=1000
+TIME : 2004-07-27 16:30:37 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-07-28 14:05:10 | MSISDN: 5037726634 | OPERATOR: DigiCell | ITEM_ID: 30909
+TIME : 2004-07-28 14:05:10 | REQUEST: &artist=Willo&name=HYE&operator=DigiCell&item_id=30909&msisdn=5037726634&type_id=1000
+TIME : 2004-07-28 14:05:10 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-07-28 19:14:48 | MSISDN: 5037737809 | OPERATOR: DigiCell | ITEM_ID: 30910
+TIME : 2004-07-28 19:14:48 | REQUEST: &artist=instick&name=nada&operator=DigiCell&item_id=30910&msisdn=5037737809&type_id=1000
+TIME : 2004-07-28 19:14:48 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-07-28 19:18:10 | MSISDN: 503737809 | OPERATOR: DigiCell | ITEM_ID: 30911
+TIME : 2004-07-28 19:18:10 | REQUEST: &artist=INSTICK&name=face&operator=DigiCell&item_id=30911&msisdn=503737809&type_id=1000
+TIME : 2004-07-28 19:18:10 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-08-04 20:25:43 | MSISDN: 5037729218 | OPERATOR: DigiCell | ITEM_ID: 30913
+TIME : 2004-08-04 20:25:43 | REQUEST: &artist=everardo&name=keyling&operator=DigiCell&item_id=30913&msisdn=5037729218&type_id=1000
+TIME : 2004-08-04 20:25:43 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-08-04 20:33:03 | MSISDN:  | OPERATOR:  | ITEM_ID: 
+TIME : 2004-08-04 20:33:03 | REQUEST: &artist=everardo&name=tu
+TIME : 2004-08-04 20:33:03 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-08-10 21:24:57 | MSISDN:  | OPERATOR:  | ITEM_ID: 
+TIME : 2004-08-10 21:24:57 | REQUEST: &artist=killas&name=REAL
+TIME : 2004-08-10 21:24:57 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-08-17 11:37:01 | MSISDN: 5037722613 | OPERATOR: DigiCell | ITEM_ID: 30920
+TIME : 2004-08-17 11:37:01 | REQUEST: &artist=Ovando&name=Loyda&operator=DigiCell&item_id=30920&msisdn=5037722613&type_id=1000
+TIME : 2004-08-17 11:37:01 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-08-20 12:44:34 | MSISDN:  | OPERATOR:  | ITEM_ID: 
+TIME : 2004-08-20 12:44:34 | REQUEST: &artist=JENNY
+TIME : 2004-08-20 12:44:34 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-08-20 16:56:22 | MSISDN:  | OPERATOR:  | ITEM_ID: 
+TIME : 2004-08-20 16:56:22 | REQUEST: &artist=alvaro&name=alvaros\\\'s
+TIME : 2004-08-20 16:56:22 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-08-20 17:09:55 | MSISDN: 3157508629 | OPERATOR: movil.com.co | ITEM_ID: 43239
+TIME : 2004-08-20 17:09:55 | REQUEST: &artist=alvaro&name=alvaro&operator=movil.com.co&item_id=43239&msisdn=3157508629&type_id=1000
+TIME : 2004-08-20 17:09:55 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-08-20 17:17:21 | MSISDN: 3157508629 | OPERATOR: movil.com.co | ITEM_ID: 43240
+TIME : 2004-08-20 17:17:21 | REQUEST: &artist=alvaro&name=1335812alv&operator=movil.com.co&item_id=43240&msisdn=3157508629&type_id=1000
+TIME : 2004-08-20 17:17:21 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-08-20 17:27:53 | MSISDN:  | OPERATOR:  | ITEM_ID: 
+TIME : 2004-08-20 17:27:53 | REQUEST: &artist=alvaro&name=Dun
+TIME : 2004-08-20 17:27:53 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-08-20 17:28:20 | MSISDN:  | OPERATOR:  | ITEM_ID: 
+TIME : 2004-08-20 17:28:20 | REQUEST: &artist=alvaro&name=Dun
+TIME : 2004-08-20 17:28:20 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-08-25 16:31:10 | MSISDN:  | OPERATOR:  | ITEM_ID: 
+TIME : 2004-08-25 16:31:10 | REQUEST: &artist=mayela
+TIME : 2004-08-25 16:31:10 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-08-25 16:36:51 | MSISDN:  | OPERATOR:  | ITEM_ID: 
+TIME : 2004-08-25 16:36:51 | REQUEST: &artist=mayela
+TIME : 2004-08-25 16:36:51 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-08-25 19:59:25 | MSISDN: 5037730123 | OPERATOR: DigiCell | ITEM_ID: 30925
+TIME : 2004-08-25 19:59:25 | REQUEST: &artist=cesarito&name=stefany&operator=DigiCell&item_id=30925&msisdn=5037730123&type_id=1000
+TIME : 2004-08-25 19:59:25 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-08-26 22:24:16 | MSISDN: 5037640805 | OPERATOR: DigiCell | ITEM_ID: 30926
+TIME : 2004-08-26 22:24:16 | REQUEST: &artist=mario&name=mr&operator=DigiCell&item_id=30926&msisdn=5037640805&type_id=1000
+TIME : 2004-08-26 22:24:16 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-08-27 12:34:27 | MSISDN: 5037651951 | OPERATOR: DigiCell | ITEM_ID: 30927
+TIME : 2004-08-27 12:34:27 | REQUEST: &artist=melto&name=corazon&operator=DigiCell&item_id=30927&msisdn=5037651951&type_id=1000
+TIME : 2004-08-27 12:34:27 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-08-31 23:33:50 | MSISDN:  | OPERATOR:  | ITEM_ID: 
+TIME : 2004-08-31 23:33:50 | REQUEST: &artist=GUAPOLO&name=ALBO
+TIME : 2004-08-31 23:33:50 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-08-31 23:44:46 | MSISDN: 5037724877 | OPERATOR: DigiCell | ITEM_ID: 30929
+TIME : 2004-08-31 23:44:46 | REQUEST: &artist=GUAPOLO&name=ALIANZA&operator=DigiCell&item_id=30929&msisdn=5037724877&type_id=1000
+TIME : 2004-08-31 23:44:46 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-09-02 17:51:48 | MSISDN: 5037727102 | OPERATOR: DigiCell | ITEM_ID: 30932
+TIME : 2004-09-02 17:51:48 | REQUEST: &artist=WALTER&name=WALTER&operator=DigiCell&item_id=30932&msisdn=5037727102&type_id=1000
+TIME : 2004-09-02 17:51:48 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-09-02 20:30:35 | MSISDN: 5037728164 | OPERATOR: DigiCell | ITEM_ID: 30935
+TIME : 2004-09-02 20:30:35 | REQUEST: &artist=marcela&name=nombre23&operator=DigiCell&item_id=30935&msisdn=5037728164&type_id=1000
+TIME : 2004-09-02 20:30:35 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-09-04 11:05:30 | MSISDN:  | OPERATOR:  | ITEM_ID: 
+TIME : 2004-09-04 11:05:30 | REQUEST: &artist=rutilio&name=mi
+TIME : 2004-09-04 11:05:30 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-09-04 11:54:20 | MSISDN: 5037745300 | OPERATOR: DigiCell | ITEM_ID: 30937
+TIME : 2004-09-04 11:54:20 | REQUEST: &artist=seiya&name=milu&operator=DigiCell&item_id=30937&msisdn=5037745300&type_id=1000
+TIME : 2004-09-04 11:54:20 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-09-08 13:30:12 | MSISDN: 5037690668 | OPERATOR: DigiCell | ITEM_ID: 30960
+TIME : 2004-09-08 13:30:12 | REQUEST: &artist=Jose&name=Jose&operator=DigiCell&item_id=30960&msisdn=5037690668&type_id=1000
+TIME : 2004-09-08 13:30:12 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-09-12 11:37:16 | MSISDN: 5037730018 | OPERATOR: DigiCell | ITEM_ID: 30962
+TIME : 2004-09-12 11:37:16 | REQUEST: &artist=MARIELA&name=MARIE&operator=DigiCell&item_id=30962&msisdn=5037730018&type_id=1000
+TIME : 2004-09-12 11:37:16 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-09-15 22:14:49 | MSISDN: 5037726997 | OPERATOR: DigiCell | ITEM_ID: 30966
+TIME : 2004-09-15 22:14:49 | REQUEST: &artist=joel&name=iconduljo&operator=DigiCell&item_id=30966&msisdn=5037726997&type_id=1000
+TIME : 2004-09-15 22:14:49 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-09-15 22:16:21 | MSISDN: 5037725815 | OPERATOR: DigiCell | ITEM_ID: 30967
+TIME : 2004-09-15 22:16:21 | REQUEST: &artist=joel&name=duljo&operator=DigiCell&item_id=30967&msisdn=5037725815&type_id=1000
+TIME : 2004-09-15 22:16:21 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TIME : 2004-10-01 20:14:00 | MSISDN: 9639639633 | OPERATOR: movil.com.co | ITEM_ID: 42843
+TIME : 2004-10-01 20:14:00 | REQUEST: &artist=Pietu&name=biach&operator=movil.com.co&item_id=42843&msisdn=9639639633&type_id=3000
+TIME : 2004-10-01 20:14:00 | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
